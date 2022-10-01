@@ -1,0 +1,7 @@
+D:\Code\calısma_konsolu2\calısma_konsolu2\bin\Debug\calısma_konsolu2.exe.config
+D:\Code\calısma_konsolu2\calısma_konsolu2\bin\Debug\calısma_konsolu2.exe
+D:\Code\calısma_konsolu2\calısma_konsolu2\bin\Debug\calısma_konsolu2.pdb
+D:\Code\calısma_konsolu2\calısma_konsolu2\obj\Debug\calısma_konsolu2.csproj.AssemblyReference.cache
+D:\Code\calısma_konsolu2\calısma_konsolu2\obj\Debug\calısma_konsolu2.csproj.CoreCompileInputs.cache
+D:\Code\calısma_konsolu2\calısma_konsolu2\obj\Debug\calısma_konsolu2.exe
+D:\Code\calısma_konsolu2\calısma_konsolu2\obj\Debug\calısma_konsolu2.pdb
